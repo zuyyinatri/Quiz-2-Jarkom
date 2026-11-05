@@ -1,9 +1,5 @@
 # Ringkasan Materi Kuis 2 Jaringan Komputer
 
-Ringkasan ini merangkum materi yang menjadi dasar 60 soal pada kuis. Urutannya mengikuti topik pada file bank soal.
-
----
-
 ## 1. Layer Transport & Socket
 
 **Fungsi lapisan transport**
