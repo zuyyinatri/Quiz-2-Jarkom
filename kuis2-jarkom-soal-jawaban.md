@@ -1,10 +1,5 @@
 # Kuis 2 Jaringan Komputer — Bank Soal, Jawaban, dan Penjelasan
 
-Total: **60 soal unik** (soal yang muncul berulang di beberapa percobaan hanya ditulis sekali).
-Soal dikelompokkan per topik. Jawaban benar ditandai dengan ✅.
-
-> Catatan: pada tangkapan layar percobaan yang belum dinilai tidak ada kunci jawaban, jadi jawaban dihitung/diverifikasi dari materi. Soal yang dinilai (Correct/Incorrect) dicocokkan dengan hasil penilaian tersebut.
-
 **Daftar topik**
 
 1. [Layer Transport & Socket](#1-layer-transport--socket)
